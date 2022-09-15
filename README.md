@@ -1,17 +1,18 @@
 <h1 align="center">Hi there 👋</h1>
-
+<!--
 <img>
 
 <div align="center">
 	<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-</div>
+</div>		-->
+
 
 <h2 align="center">
 	I'm Aastha Aggarwal
 </h2>
 
 <h3 align="center">
-	An aspiring full stack developer
+	An aspiring full stack developer | JAVA programmer 
 </h3>
 
 
@@ -56,12 +57,12 @@
 </h2>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=aasthaagg&show_icons=true&locale=en" alt="aasthaagg's github stats" width="40%"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaagg&" alt="aasthaagg's streak stats" width="40%"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=aasthaagg&show_icons=true&locale=en" alt="aasthaagg's github stats" width="48%"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaagg&" alt="aasthaagg's streak stats" width="48%"/>
 </p>
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthaagg&show_icons=true&locale=en&layout=compact" alt="aasthaagg's langguages used stats" width="40%"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthaagg&show_icons=true&locale=en&layout=compact" alt="aasthaagg's langguages used stats" width="50%"/>
 </p>
 
 
