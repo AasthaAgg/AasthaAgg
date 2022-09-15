@@ -1,20 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-<!--
-<img>
-
-<div align="center">
-	<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-</div>		-->
-
-
-<h2 align="center">
-	I'm Aastha Aggarwal
-</h2>
-
-<h3 align="center">
-	An aspiring full stack developer | JAVA programmer 
-</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&duration=2000&pause=500&center=true&multiline=true&width=950&height=180&lines=Hello+there+%F0%9F%91%8B;;I'm+Aastha+Aggarwal%F0%9F%98%84;;An+aspiring+full+stack+developer+%7C+JAVA+programmer%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <div align="center">
 	<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
@@ -57,8 +41,8 @@
 </h2>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=aasthaagg&show_icons=true&locale=en" alt="aasthaagg's github stats" width="48%"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaagg&" alt="aasthaagg's streak stats" width="48%"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=aasthaagg&show_icons=true&locale=en" alt="aasthaagg's github stats" width="49%"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthaagg&" alt="aasthaagg's streak stats" width="49%"/>
 </p>
 
 <p align="center">
@@ -80,5 +64,5 @@
 </h1>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=aasthaagg&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaagg's profile visits" /> 
+	<img src="https://komarev.com/ghpvc/?username=aasthaagg&label=Profile%20views&color=0e75b6&style=flat" alt="aasthaagg's profile visits" />
 </p>
